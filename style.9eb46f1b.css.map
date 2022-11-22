@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UACE,kBACF,CAEA,OAEE,kBACF,CAEA,YAJE,aAMF","file":"style.9eb46f1b.css","sourceRoot":"..\\src","sourcesContent":[".fieldset {\n  margin-bottom: 20px;\n}\n\n.label {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.new {\n  display: block;\n}\n"]}
